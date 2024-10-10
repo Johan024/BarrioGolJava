@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/productos/bases de date/bases de date.iml" filepath="$PROJECT_DIR$/productos/bases de date/bases de date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hpta.iml" filepath="$PROJECT_DIR$/.idea/hpta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productos/productos/productos.iml" filepath="$PROJECT_DIR$/productos/productos/productos.iml" />
+    </modules>
+  </component>
+</project>
